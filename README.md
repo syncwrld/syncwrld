@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo sync.</h1>
 <h3 align="center">Um desenvolvedor aprendiz tentando me encontrar em alguma área.</h3>
 
-- 🔭 Atualmente trabalhando em [Rede Storm](https://discord.redestorm.com)
+- 🔭 Atualmente trabalhando em [Rede Storm](https://discord.redestorm.com), [LeafCode](https://github.com/leafcodebr) and [palaze.shop](https://palaze.shop)
 
 - 🌱 Agora estou aprendendo **Java, BukkitAPI, GoLang**
 
