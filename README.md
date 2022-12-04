@@ -12,7 +12,7 @@
 
 ![](https://dcbadge.vercel.app/api/shield/662402220784091146)
 
-<p align="center"> <a href="https://twitter.com/byiswwc" target="blank"><img src="https://img.shields.io/twitter/follow/byiswwc?logo=twitter&style=for-the-badge" alt="byiswwc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/byiswwc" target="blank"><img src="https://img.shields.io/twitter/follow/byiswwc?logo=twitter&style=for-the-badge" alt="byiswwc" /></a> </p>
 
 <h3 align="left">me encontre em</h3>
 <p align="left">
