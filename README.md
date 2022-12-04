@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo sync.</h1>
-<h3 align="center">Um desenvolvedor aprendiz, tentando me encontrar em alguma área.</h3>
+<h3 align="center">Um desenvolvedor aprendiz tentando me encontrar em alguma área.</h3>
 
 - 🔭 Atualmente trabalhando em [Rede Storm](https://discord.redestorm.com)
 
