@@ -1,25 +1,36 @@
-<h1 align="center">Olá 👋, me chamo sync.</h1>
-<h3 align="center">Um desenvolvedor aprendiz tentando me encontrar em alguma área.</h3>
 
-- 🔭 Atualmente trabalhando em [Rede Storm](https://discord.redestorm.com), [LeafCode](https://github.com/leafcodebr) and [palaze.shop](https://palaze.shop)
+<div align="center">
+  <a href="https://github.com/Vazzzx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vazzzx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazzzx&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEzK6loa33AhUiK7kGHe4KDYEQFnoECBAQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fpt-br%2Fidea%2F&usg=AOvVaw1oW-y21ztdXo6P1OZsIfYD" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>     
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ2f-hoa33AhUDLLkGHWB0DuQQFnoECBMQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fwindows%2F&usg=AOvVaw3FS_duD590ydLHigo-uerR" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju1YSIoa33AhWlH7kGHUIRATMQFnoECBEQAQ&url=https%3A%2F%2Fwww.npmjs.com%2F&usg=AOvVaw3X687KpYu1DK9666uZ55b8" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu5_6Yoa33AhVJJ7kGHR2SClEQFnoECBEQAQ&url=https%3A%2F%2Fwww.mysql.com%2F&usg=AOvVaw20c6IrMAtNC1A9NZPsDpWW" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1b_9oK33AhXpH7kGHf6-BeoQFnoECBAQAQ&url=https%3A%2F%2Fmaven.apache.org%2F&usg=AOvVaw1YYiU6vhRx9JgPlCaD8pID" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a>
 
-- 🌱 Agora estou aprendendo **Java, BukkitAPI, GoLang**
 
-- 👯 Colaborando agora em [LeafCode](https://github.com/leafcodebr)
+  ![Snake animation](https://github.com/Vazzzx/Vazzzx/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-- 💕 Atualmente estou **<3**
+<div>
 
+  </div>
 
-![](https://dcbadge.vercel.app/api/shield/662402220784091146)
-
-<p align="left"> <a href="https://twitter.com/byiswwc" target="blank"><img src="https://img.shields.io/twitter/follow/byiswwc?logo=twitter&style=for-the-badge" alt="byiswwc" /></a> </p>
-
-<h3 align="left">me encontre em</h3>
-<p align="left">
-<a href="https://twitter.com/byiswwc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byiswwc" height="30" width="40" /></a>
-<a href="https://instagram.com/iswwcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iswwcc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@synczinbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synczinbr" height="30" width="40" /></a>
-</p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&redirect=true)
-<h3 align="left">trabalho com</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+  <img height="130em" src="https://spotify-github-profile.vercel.app/api/view?uid=bs_vaz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+<a href="https://discord.com/users/472492115205685272"> 
+  <img height="150em" src="https://lanyard.cnrad.dev/api/472492115205685272"/>
+</div>
