@@ -15,7 +15,7 @@
 </div>
   
   ##
- 
+<!--
 <div> 
   <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEzK6loa33AhUiK7kGHe4KDYEQFnoECBAQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fpt-br%2Fidea%2F&usg=AOvVaw1oW-y21ztdXo6P1OZsIfYD" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>     
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ2f-hoa33AhUDLLkGHWB0DuQQFnoECBMQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fwindows%2F&usg=AOvVaw3FS_duD590ydLHigo-uerR" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
@@ -23,6 +23,7 @@
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiu5_6Yoa33AhVJJ7kGHR2SClEQFnoECBEQAQ&url=https%3A%2F%2Fwww.mysql.com%2F&usg=AOvVaw20c6IrMAtNC1A9NZPsDpWW" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1b_9oK33AhXpH7kGHf6-BeoQFnoECBAQAQ&url=https%3A%2F%2Fmaven.apache.org%2F&usg=AOvVaw1YYiU6vhRx9JgPlCaD8pID" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a>
 </div>
+-->
 
 <div>
 
