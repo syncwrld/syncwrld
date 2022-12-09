@@ -9,7 +9,7 @@
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Go" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <!-- <img align="center" alt="GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="DiscordJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">
   <img align="center" alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
