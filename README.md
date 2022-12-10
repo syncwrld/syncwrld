@@ -21,12 +21,18 @@
 <div align="center">
  <h2 align="center">⚡ Meus contatos</h2>
 <div align="center">
- <a href="https://instagram.com/iswwcc">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</div>
-<div align="center">
  <a href="mailto:support@palaze.shop">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+<div align-items="row">
+ <p></p>
+ <a href="https://discord.com/users/662402220784091146">
+ <img src="https://img.shields.io/badge/?style=for-the-badge&logo=discord&logoColor=white"/>
+</div>
+<div align-items="row">
+ <p></p>
+ <a href="https://instagram.com/iswwcc">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
 </div>
 
