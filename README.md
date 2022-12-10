@@ -19,6 +19,7 @@
 
 <div align="center">
  <h2>⚡ Meus contatos</h3>
+ <code><img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" href="https://slash.palaze.shop" alt="Discord"/></code>
 </div>
 
 <div align="center">
