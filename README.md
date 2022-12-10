@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">👋 Olá, me chamo sync.</h1>
 <h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
 
@@ -5,7 +6,7 @@
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Discord JDA, GoLang Packages</strong> -</p>
 <p align="center">- 👯 Colaboro em <strong>LeafCode</strong> -</p>
 <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p>
-
+</div>
 ---
 ##🚀 Minhas Skills
 
