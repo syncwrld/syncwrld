@@ -19,13 +19,15 @@
 
 <div align="center">
  <h2>⚡ Meus contatos</h3>
- <div align="center";flex-direction: "row";align-items: "center">
+ <div align="center">
   <a href="https://discord.com/users/662402220784091146">
- <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord"/> <p><strong>sync#6674</strong</p></code>
+  <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord"/>
+  <p><strong>sync#6674</strong</p>
  </div>
-  <div align="center">
-   <a href="https://instagram.com/iswwcc">
- <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" alt="Discord"/> <p><strong>@iswwcc</strong</p></code>
+ <div align="center">
+  <a href="https://instagram.com/iswwcc">
+  <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" style:"float: right;align: center" alt="Instagram"/>
+  <p><strong>@iswwcc</strong</p>
  </div>
 </div>
 
