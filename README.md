@@ -8,6 +8,7 @@
 <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p>
 </div>
 ---
+<div align="center">
 <h2>🚀 Minhas Skills</h2>
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
@@ -17,7 +18,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Bootstrap"/></code>
----
+</div>
+  ---
   <p></p>
 
 <div align="center">
