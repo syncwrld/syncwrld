@@ -17,8 +17,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 </div>
 
-<div align="center">
- <h2>⚡ Meus contatos</h3>
+<div>
+ <h2 align="center">⚡ Meus contatos</h3>
  <div align="center">
   <a href="https://discord.com/users/662402220784091146">
   <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style:"float: right;horizontal-align: center" alt="Discord"/>
