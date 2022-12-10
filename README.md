@@ -3,7 +3,7 @@
 
 <p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Discord JDA, GoLang Packages</strong> -</p>
-<p align="center"> - 👯 Colaboro em <strong>LeafCode</strong> -</p>
+<p align="center">- 👯 Colaboro em <strong>LeafCode</strong> -</p>
 <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p>
 <p> </p>
 ---
