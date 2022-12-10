@@ -1,7 +1,18 @@
+<h1 align="center">salve, me chamo sync.</h1>
+<h3 align="center">atualmente programo principalmente em java e golang</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synczinbr&label=Visitantes&color=0e75b6&style=plastic" alt="synczinbr" /> </p>
+
+<p align="left"> <a href="https://twitter.com/byiswwc" target="blank"><img src="https://img.shields.io/twitter/follow/byiswwc?logo=twitter&style=for-the-badge" alt="byiswwc" /></a> </p>
+
+- 🔭 Atualmente eu trabalho em [Rede Storm](https://discord.redestorm.com)
+
+- 🌱 Estou aprendendo atualmente **BukkitAPI, Discord JDA, GoLang Packages**
+
+- 👯 Colaboro em [LeafCode](https://github.com/leafcodebr)
+
+- 💕 Atualmente estou **namorando**
 <div style="display: inline_block"; align="center">
-  <h1 align="center">salve, pode me chamar de sync 🍬</h1>
-  <p>tenho 16 anos, programo principalmente em Java e GO</p>
   <img align="center";margin-right="30" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Go" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
