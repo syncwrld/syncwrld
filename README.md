@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
- <h3>⚡ Meus contatos</h3>
+ <h2>⚡ Meus contatos</h3>
 </div>
 
 <div align="center">
