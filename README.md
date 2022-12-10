@@ -18,7 +18,7 @@
 </div>
 
 
-<div style="align:"center";display:"inline-block"">
+<div align="center">
  <h2 align="center">⚡ Meus contatos</h2>
 <div class="mail">
  <p>EMAIL</p>
