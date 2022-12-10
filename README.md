@@ -17,8 +17,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 </div>
 
+
+ <h2 align="center">⚡ Meus contatos</h2>
 <div align="center">
- <h2 align="center">⚡ Meus contatos</h3>
  <a href"https://instagram.com/iswwcc">
  <img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt:"INSTAGRAM">
 </div>
