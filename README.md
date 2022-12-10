@@ -20,10 +20,12 @@
 <div align="center">
  <h2>⚡ Meus contatos</h3>
  <div align="center">
- <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" href="https://slash.palaze.shop" alt="Discord"/> <p><strong>sync#6674</strong</p></code>
+  <a href="https://discord.com/users/662402220784091146">
+ <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord"/> <p><strong>sync#6674</strong</p></code>
  </div>
   <div align="center">
- <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" href="https://instagram.com/iswwcc" alt="Discord"/> <p><strong>@iswwcc</strong</p></code>
+   <a href="https://instagram.com/iswwcc">
+ <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" alt="Discord"/> <p><strong>@iswwcc</strong</p></code>
  </div>
 </div>
 
