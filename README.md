@@ -20,12 +20,12 @@
 
 <div align="center">
  <h2 align="center">⚡ Meus contatos</h2>
-<div align="row">
- <a href"https://instagram.com/iswwcc">
+<div align="center">
+ <a href="https://instagram.com/iswwcc">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
-<div align="row">
- <a href"mailto:support@palaze.shop">
+<div align="center">
+ <a href="mailto:support@palaze.shop">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 </div>
