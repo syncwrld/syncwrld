@@ -1,5 +1,5 @@
-<h1 align="left">👋 Olá, me chamo sync.</h1>
-<h3 align="left">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
+<h1 align="center">👋 Olá, me chamo sync.</h1>
+<h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
 
 - 🔭 Atualmente eu trabalho em [Rede Storm](https://discord.redestorm.com)
 
