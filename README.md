@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, me chamo sync.</h1>
 <h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
 
-<p align="center">- 🔭 Atualmente eu trabalho em [Rede Storm](https://discord.redestorm.com)</p>
+<p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong></p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Discord JDA, GoLang Packages</strong></p>
-<p align="center"> - 👯 Colaboro em [LeafCode](https://github.com/leafcodebr)</p>
+<p align="center"> - 👯 Colaboro em <strong>LeafCode</strong></p>
 <p align="center">- 💕 Atualmente estou <strong>namorando</strong></p>
 <div style="display: inline_block"; align="center">
   <img align="center";margin-right="30" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
