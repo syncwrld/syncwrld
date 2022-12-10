@@ -1,6 +1,7 @@
 
 <div style="display: inline_block"; align="center">
   <h1 align="center">salve, pode me chamar de sync 🍬</h1>
+  <p>tenho 16 anos, programo principalmente em Java e GO</p>
   <img align="center";margin-right="30" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Go" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
