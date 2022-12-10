@@ -22,11 +22,11 @@
 <div id="instagram">
  <a href"https://instagram.com/iswwcc">
  <img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt:"INSTAGRAM">
-</div>
+  </div>
 <div id="mail">
  <a href"mailto:support@palaze.shop">
  <img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt:"EMAIL">
-</div>
+  </div>
 </div>
 
 <div align="center">
