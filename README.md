@@ -7,7 +7,7 @@
 
 - 👯 Colaboro em [LeafCode](https://github.com/leafcodebr)
 
-- 💕 Atualmente estou **namorando**
+<p>💕 Atualmente estou <strong>namorando</strong></p>
 <div style="display: inline_block"; align="center">
   <img align="center";margin-right="30" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
