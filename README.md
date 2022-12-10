@@ -1,7 +1,6 @@
 
 <div style="display: inline_block"; align="center">
-  <h2 align="center">salve, pode me chamar de sync 🍬</h2>
-        <h3>me conheça um pouco mais</h3>
+  <h1 align="center">salve, pode me chamar de sync 🍬</h1>
   <img align="center";margin-right="30" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Go" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
