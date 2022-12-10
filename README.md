@@ -17,18 +17,14 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 </div>
 
-<div>
+<div style="align:center">
  <h2 align="center">⚡ Meus contatos</h3>
- <div align="center">
-  <a href="https://discord.com/users/662402220784091146">
-  <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" style:"float: right;horizontal-align: center" alt="Discord"/>
-  <p><strong>sync#6674</strong</p>
- </div>
- <div align="center">
-  <a href="https://instagram.com/iswwcc">
-  <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" style:"float: right;horizontal-align: center" alt="Instagram"/>
-  <p><strong>@iswwcc</strong</p>
- </div>
+<a href"https://instagram.com/iswwcc">
+ <img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt:"INSTAGRAM">
+ </a>
+<a href"mailto:webmaster@example.com">
+ <img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt:"EMAIL">
+ </a>
 </div>
 
 <div align="center">
