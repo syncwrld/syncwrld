@@ -19,7 +19,7 @@
 
 <div align="center">
  <h2>⚡ Meus contatos</h3>
- <div align="center">
+ <div align="center";flex-direction: "row";align-items: "center">
   <a href="https://discord.com/users/662402220784091146">
  <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord"/> <p><strong>sync#6674</strong</p></code>
  </div>
