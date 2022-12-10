@@ -27,7 +27,7 @@
 <div align-items="row">
  <p></p>
  <a href="https://discord.com/users/662402220784091146">
- <img src="https://img.shields.io/badge/?style=for-the-badge&logo=discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 <div align-items="row">
  <p></p>
