@@ -19,7 +19,9 @@
 
 <div align="center">
  <h2>⚡ Meus contatos</h3>
- <code><img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" href="https://slash.palaze.shop" alt="Discord"/> <p>Discord: sync#6674</p></code>
+ <div id="discord">
+ <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" href="https://slash.palaze.shop" alt="Discord"/> <p>Discord: sync#6674</p></code>
+ </div>
 </div>
 
 <div align="center">
