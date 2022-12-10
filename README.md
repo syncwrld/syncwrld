@@ -6,7 +6,6 @@
 <p align="center"> - 👯 Colaboro em <strong>LeafCode</strong> -</p>
 <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p>
 <p> </p>
-<p>
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
