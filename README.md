@@ -1,9 +1,5 @@
-<h1 align="center">salve, me chamo sync.</h1>
-<h3 align="center">atualmente programo principalmente em java e golang</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synczinbr&label=Visitantes&color=0e75b6&style=plastic" alt="synczinbr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/byiswwc" target="blank"><img src="https://img.shields.io/twitter/follow/byiswwc?logo=twitter&style=for-the-badge" alt="byiswwc" /></a> </p>
+<h1 align="left">salve, me chamo sync.</h1>
+<h3 align="left">atualmente programo principalmente em java e golang</h3>
 
 - 🔭 Atualmente eu trabalho em [Rede Storm](https://discord.redestorm.com)
 
