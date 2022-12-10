@@ -22,6 +22,9 @@
  <div id="discord">
  <img height="32" src="https://www.svgrepo.com/show/353655/discord-icon.svg" href="https://slash.palaze.shop" alt="Discord"/> <p><strong>sync#6674</strong</p></code>
  </div>
+  <div id="instagram">
+ <img height="32" src="https://www.svgrepo.com/show/28697/instagram.svg" href="https://instagram.com/iswwcc" alt="Discord"/> <p><strong>@iswwcc</strong</p></code>
+ </div>
 </div>
 
 <div align="center">
