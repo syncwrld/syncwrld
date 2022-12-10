@@ -11,9 +11,7 @@
   <img align="center" alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   </div>
 <div>
-  <br>
   ##
-  </br>
   </div>
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
