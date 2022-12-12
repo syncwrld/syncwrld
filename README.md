@@ -37,7 +37,7 @@
  <h2 align="center">🕐 Minha atividade</h2>
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/insji39zug90t3uinqfdr8jpf">
   <img height="175em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)"/>
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="165em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
