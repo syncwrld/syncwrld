@@ -1,11 +1,11 @@
 <div>
-<h1 align="center">👋 Olá, me chamo sync.</h1>
+<h1 align="center">👋 Olá, me chamo isaac.</h1>
 <h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
 <p align="center">- 📌 Dono e Diretor técnico da <strong>MeteorCloud</strong> (https://meteorcloud.com.br) -</p>
 <p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
 <p align="center">- 👯 Colaboro em <strong>LeafCode</strong> e <strong>Atlas Plugins</strong> -</p>
-<p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p>
+<!--- <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
 </div>
 <div align="center">
 <h2>🚀 Minhas Skills</h2>
