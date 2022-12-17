@@ -5,7 +5,7 @@
 <p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
 <p align="center">- 👯 Colaboro em <strong>LeafCode</strong> e <strong>Atlas Plugins</strong> -</p>
-<!--- <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
+<!--- removi pq tao achando q sou boiola <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
 </div>
 <div align="center">
 <h2>🚀 Minhas Skills</h2>
