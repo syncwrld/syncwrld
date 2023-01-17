@@ -2,6 +2,7 @@
 <h1 align="center">👋 Olá, me chamo sync.</h1>
 <h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
 <h2 align="center">Realizo encomendas de plugins, web apis e back-end.</2>
+
 <p align="center">- 📌 Dono e Diretor técnico da <strong>MeteorCloud</strong> (https://meteorcloud.com.br) -</p>
 <p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
