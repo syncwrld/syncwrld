@@ -5,7 +5,7 @@
 <p align="center">- 📌 Dono e Diretor técnico da <strong>MeteorCloud</strong> (https://meteorcloud.com.br) -</p>
 <p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
-<p align="center">- 👯 Colaboro em <strong>LeafCode</strong> (https://leafplugins.com) e <strong>Atlas Plugins</strong> -</p>
+<p align="center">- 👯 Administrador em <strong>LeafCode</strong> (https://leafplugins.com) e staff em <strong>Atlas Plugins</strong> -</p>
 <!--- removi pq tao achando q sou boiola <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
 </div>
 <div align="center">
