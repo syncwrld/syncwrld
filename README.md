@@ -7,6 +7,7 @@
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
 <p align="center">- 👯 Administrador em <strong>Leaf Plugins</strong> (https://leafplugins.com) e staff em <strong>Atlas Plugins</strong> -</p>
 <!--- removi pq tao achando q sou boiola <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=synczinbr&color=brightgreen" alt="synczinbr profile views" /> </p>
 </div>
 <div align="center">
 <h2>🚀 Minhas Skills</h2>
