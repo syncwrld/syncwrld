@@ -7,13 +7,14 @@
 <p align="center">- 🌱 Estou aprendendo atualmente <strong>BukkitAPI, Backend, GoLang Packages</strong> -</p>
 <p align="center">- 👯 Administrador em <strong>Leaf Plugins</strong> (https://leafplugins.com) e staff em <strong>Atlas Plugins</strong> -</p>
 <!--- removi pq tao achando q sou boiola <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
- <p align="left"><img src="https://komarev.com/ghpvc/?username=synczinbr&color=brightgreen" alt="synczinbr profile views" /> </p>
 </div>
 <div align="center">
 <h2>🚀 Minhas Skills</h2>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
 </div>
 
