@@ -42,6 +42,6 @@
   <img height="145em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synczinbr)](https://github.com/synczinbr)
-
 </div>
+
+[![synczinbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=synczinbr)](https://github.com/anuraghazra/github-readme-stats)
