@@ -42,7 +42,8 @@
   <img height="145em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
-</div>
-<a href='https://github.com/guikaua12'>
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&layout=compact&theme=dark'>
+  <a href='https://github.com/synczinbr'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=synczinbr&layout=compact&theme=dark'>
 <a>
+
+</div>
