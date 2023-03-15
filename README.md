@@ -43,3 +43,6 @@
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
 </div>
+<a href='https://github.com/guikaua12'>
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=guikaua12&layout=compact&theme=dark'>
+<a>
