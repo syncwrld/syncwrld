@@ -3,7 +3,7 @@
 <h3 align="center">I'm 16yo and I code almost in Java, JavaScript and GoLang</h3>
 
 <p align="center">(!) 📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
-<p align="center">(!) 🌱 Learning <strong>Redis and General Database</strong> :-:</p>
+<p align="center">(!) 🌱 Learning <strong>Redis and General Database</strong></p>
 <p align="center">(!) 👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com) and staffer in <strong>Atlas Plugins</strong></p>
 <p align="center">(!) 💕 Actually in <strong>relation</strong></p>
 </div>
@@ -42,5 +42,3 @@
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="135em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
 </div>
-
-[![synczinbr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=synczinbr)](https://github.com/anuraghazra/github-readme-stats)
