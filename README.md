@@ -8,7 +8,7 @@
 <p align="center">(!) 💕 Actually in <strong>relation</strong></p>
 </div>
 <div align="center">
-<h2>🚀 Minhas Skills</h2>
+<h2>🚀 Skills</h2>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
@@ -19,7 +19,7 @@
 
 
 <div align="center">
- <h2 align="center">⚡ Contatcs</h2>
+ <h2 align="center">⚡ Contacts</h2>
 <div class="mail">
  <a href="mailto:devsynczinbr@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
