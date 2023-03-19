@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/insji39zug90t3uinqfdr8jpf">
-  <img height="210em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
+  <img height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=insji39zug90t3uinqfdr8jpf&cover_image=true&theme=novatorem&show_offline=false&background_color=ff0000&bar_color=0008ff&bar_color_cover=false"/>
   <a href="https://discord.com/users/662402220784091146"> 
   <img height="180em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
 </div>
