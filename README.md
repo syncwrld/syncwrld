@@ -1,12 +1,11 @@
 <div>
-<h1 align="center">👋 Olá, me chamo isaac.</h1>
-<h3 align="center">Tenho 16 anos e programo principalmente em Java e GoLang</h3>
+<h1 align="center">👋 Hello, my name is sync.</h1>
+<h3 align="center">I'm 16yo and I code almost in Java, JavaScript and GoLang</h3>
 
-<p align="center">- 📌 Dono e Diretor técnico da <strong>MeteorCloud</strong> (https://meteorcloud.com.br) -</p>
-<p align="center">- 🔭 Atualmente eu trabalho em <strong>Slash Projects</strong> -</p>
-<p align="center">- 🌱 Estou aprendendo atualmente <strong>Redis, Spring e Bancos de Dados em geral</strong> -</p>
-<p align="center">- 👯 Administrador em <strong>Leaf Plugins</strong> (https://leafplugins.com) e staff em <strong>Atlas Plugins</strong> -</p>
-<!--- removi pq tao achando q sou boiola <p align="center">- 💕 Atualmente estou <strong>namorando</strong> -</p> --->
+<p align="center">:-: 📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br) :-:</p>
+<p align="center">:-: 🌱 Learning <strong>Redis and General Database</strong> :-:</p>
+<p align="center">:-: 👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com) and staffer in <strong>Atlas Plugins</strong> :-:</p>
+<p align="center">:-: 💕 Actually in <strong>relation</strong> :-:</p>
 </div>
 <div align="center">
 <h2>🚀 Minhas Skills</h2>
@@ -20,7 +19,7 @@
 
 
 <div align="center">
- <h2 align="center">⚡ Meus contatos</h2>
+ <h2 align="center">⚡ Contatcs</h2>
 <div class="mail">
  <a href="mailto:support@palaze.shop">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -35,7 +34,7 @@
 </div>
  </div>
  
- <h2 align="center">🕐 Minha atividade</h2>
+ <h2 align="center">🕐 Activity/Status</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/insji39zug90t3uinqfdr8jpf">
