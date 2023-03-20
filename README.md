@@ -13,7 +13,7 @@
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svgg" alt="Redis"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" alt="Redis"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg" alt="DiscordJS"/></code>
