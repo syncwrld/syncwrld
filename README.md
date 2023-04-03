@@ -2,10 +2,10 @@
 <h1 align="center">👋 Hello, my name is isaac.</h1>
 <h3 align="center">I'm 16yo and I code almost in Java, JavaScript and GoLang</h3>
 
-<p align="center">(!) 📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
-<p align="center">(!) 🌱 Learning <strong>Redis and General Database</strong></p>
-<p align="center">(!) 👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com) and staffer in <strong>Atlas Plugins</strong></p>
-<p align="center">(!) 💕 Actually <strong>dating</strong></p>
+<p align="center">📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
+<p align="center">🌱 Learning <strong>Redis and General Database</strong></p>
+<p align="center">👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com) and staffer in <strong>Atlas Plugins</strong></p>
+<p align="center">💕 Actually <strong>dating</strong></p>
 </div>
 <div align="center">
 <h2>🚀 Skills</h2>
