@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">👋 Hello, my name is sync.</h1>
-<h3 align="center">I'm 16yo and I code almost in Java and GoLang</h3>
+<h3 align="center">I'm 16yo and I code mostly in Java and GoLang</h3>
 
 <p align="center">📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
 <p align="center">🌱 Learning <strong>Patterns and Java-based Backend</strong></p>
