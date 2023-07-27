@@ -1,3 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <h1>Hi, my name is <img style="flex 00 auto" src="https://i.imgur.com/R4Gf8nL.png"> </h1>
-</div>
+## Hi, my name is sync and this is my world #
+#### 👀 stats and more informations ####
+![](https://komarev.com/ghpvc/?username=syncwrld&style=for-the-badge)
