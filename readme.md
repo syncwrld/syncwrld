@@ -7,7 +7,7 @@
 
 <p align="center">📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
 <p align="center">🌱 Learning <strong>Patterns and Java-based Backend</strong></p>
-<p align="center">👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com) and staffer in <strong>Atlas Plugins</strong></p>
+<p align="center">👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com)</p>
 </div>
 <div align="center">
 <h2>🚀 Skills</h2>
