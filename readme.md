@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/b89416d4-4776-4db8-b58f-0ee2770e1e2e.svg)](https://wakatime.com/@b89416d4-4776-4db8-b58f-0ee2770e1e2e)
 
 <div>
-<h1 align="center">👋 Hello, my name is sync.</h1>
+<h1 align="center">👋 Hello, my name is isaac.</h1>
 <h3 align="center">I'm 17yo and I code mostly in Java and GoLang</h3>
 
 <p align="center">📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
