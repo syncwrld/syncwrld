@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=syncwrld&color=dc143c)
+![]([https://komarev.com/ghpvc/?username=syncwrld&color=dc143c](https://komarev.com/ghpvc/?username=syncwrld&style=for-the-badge))
 [![wakatime](https://wakatime.com/badge/user/b89416d4-4776-4db8-b58f-0ee2770e1e2e.svg)](https://wakatime.com/@b89416d4-4776-4db8-b58f-0ee2770e1e2e)
 
 <div>
