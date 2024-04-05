@@ -1,42 +1,68 @@
-![]([https://komarev.com/ghpvc/?username=syncwrld&color=dc143c](https://komarev.com/ghpvc/?username=syncwrld&style=for-the-badge))
-[![wakatime](https://wakatime.com/badge/user/b89416d4-4776-4db8-b58f-0ee2770e1e2e.svg)](https://wakatime.com/@b89416d4-4776-4db8-b58f-0ee2770e1e2e)
-
-<div>
-<h1 align="center">👋 Hello, my name is isaac.</h1>
-<h3 align="center">I'm 17yo and I code mostly in Java</h3>
-
-<p align="center">📌 CEO at <strong>MeteorCloud</strong> (https://meteorcloud.com.br)</p>
-<p align="center">🌱 Learning <strong>Patterns and Java-based Backend</strong></p>
-<p align="center">👯 Manager at <strong>Leaf Plugins</strong> (https://leafplugins.com)</p>
-</div>
-<div align="center">
-<h2>🚀 Skills</h2>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"/></code>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=syncwrld.syncwrld&left_color=blue&right_color=lightgrey&left_text=Views"  />
 </div>
 
+###
 
-<div align="center">
- <h2 align="center">⚡ Contacts</h2>
-<div class="mail">
- <a href="mailto:devsynczinbr@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="left">
+  <a href="https://discord.com/users/662402220784091146" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:devsyncwrld@gmail.com?subject=Github%20Visit&body=Hello%2C%20I%20visited%20your%20github%20and%20I'm%20interested%20to%20talk%20w%2F%20you!" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
-<div class="discord">
- <a href="https://discord.com/users/662402220784091146">
- <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
-<div calss="instagram">
- <a href="https://instagram.com/iswwcc">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</div>
- </div>
- 
- <h2 align="center">🕐 Activity/Status</h2>
 
-<div align="center">
-  <a href="https://discord.com/users/662402220784091146"> 
-  <img height="170em" src="https://lanyard.cnrad.dev/api/662402220784091146?idleMessage=:)"/>
+###
+
+<h1 align="left">Hey! 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Isaac from Brazil<br><br>- 🔭 Graduating Computer Engineering at CEUMA<br>- 📚 Learning Java-based Backend<br>- ⚡ SpringBoot, Bukkit and JDA</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=syncwrld&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/insji39zug90t3uinqfdr8jpf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=insji39zug90t3uinqfdr8jpf&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
