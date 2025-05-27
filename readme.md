@@ -10,7 +10,7 @@
 🔹 Software Engineering student at UNDB  
 🔹 Passionate about Backend Development  
 🔹 Focused on Java, Kotlin, and System Architecture  
-🔹 Love working with SpringBoot, Bukkit, and Javacord  
+🔹 Love working with SpringBoot, Bukkit, and JDA  
 
 ---
 
