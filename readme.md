@@ -27,9 +27,14 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Tools & Frameworks  
+![Git](https://img.shields.io/badge/Git-%F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![KTor](https://img.shields.io/badge/Ktor-%230095D5.svg?style=for-the-badge&logo=ktor&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-%6965DB.svg?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### IDEs & OS  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
