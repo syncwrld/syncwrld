@@ -11,7 +11,8 @@
 🔹 CEO of [StreetHosting](https://streethosting.com.br) - take a look at my responsibilities [by clicking here](https://github.com/syncwrld/syncwrld/blob/main/streethosting.responsabilities.md) 
 🔹 Passionate about Backend Development  
 🔹 Focused on Java, Kotlin, and System Architecture  
-🔹 Love working with SpringBoot, Bukkit, and JDA  
+🔹 Love working with SpringBoot, Bukkit, and JDA
+
 ---
 
 ### 🛠 Tech Stack  
